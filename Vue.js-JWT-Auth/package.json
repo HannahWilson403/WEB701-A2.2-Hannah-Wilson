@@ -1,0 +1,68 @@
+{
+  "_from": "JSON",
+  "_id": "JSON@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-hoFTHCj4Q4oHVYn/BySCRuqWDYw=",
+  "_location": "/JSON",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "JSON",
+    "name": "JSON",
+    "escapedName": "JSON",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/JSON/-/JSON-1.0.0.tgz",
+  "_shasum": "8681531c28f8438a075589ff07248246ea960d8c",
+  "_spec": "JSON",
+  "_where": "C:\\Workspace\\WEB701\\Vue.js-JWT-Auth",
+  "author": {
+    "name": "Douglas Crockford",
+    "email": "douglas@crockford.com",
+    "url": "http://crockford.com"
+  },
+  "bugs": {
+    "url": "https://github.com/douglascrockford/JSON-js/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "AJ ONeal",
+      "email": "coolaj86@gmail.com",
+      "url": "http://coolaj86.info"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Douglas Crockford's json2.js",
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.2.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+  "@fortawesome/free-solid-svg-icons": "^5.11.2",
+  "@fortawesome/vue-fontawesome": "^0.1.7",
+  "axios": "^0.19.0",
+  "bootstrap": "^4.3.1",
+  "core-js": "^2.6.5",
+  "jquery": "^3.4.1",
+  "popper.js": "^1.15.0",
+  "vee-validate": "^2.2.15",
+  "vue": "^2.6.10",
+  "vue-router": "^3.0.3",
+  "vuex": "^3.0.1"
+  },
+  "homepage": "http://json.org",
+  "keywords": [
+    "ender"
+  ],
+ 
+  
+  "version": "1.0.0"
+}
